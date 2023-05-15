@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "789146620557",
+    "firebase_url": "https://motobeans-testing.firebaseio.com",
+    "project_id": "motobeans-testing",
+    "storage_bucket": "motobeans-testing.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:789146620557:android:59cffd37d5ee7b2ade88c4",
+        "android_client_info": {
+          "package_name": "com.motobeans.frontier"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "789146620557-vu2hfhan4rrqqqjgjvgcfs80marjprus.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCjm6aBegdPIctzQZAIOFBcVz4jjH8miI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "789146620557-5nfh25h12qh7kv85s4pof17netn40old.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

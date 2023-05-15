@@ -1,0 +1,17 @@
+{
+  "home": "Home",
+  "ok": "ok",
+  "notifications": "Notifications",
+  "profile": "Profile",
+  "helloTitleFormat": "Hello, %s",
+  "howCanWeHelpYou": "How can we help you today?",
+  "youWentOffline": "You went offline",
+  "youWentOfflineSupportText": "It seems you don’t have an internet connection, or your signal is too low.",
+  "internetNotConnected": "You don’t have an internet connection, or your signal is too low.",
+  "errorEmptyInput": "Field can not be empty!",
+  "projectName": "Gutenberg Project",
+  "projectDescription": "A social cataloging website that allows you to freely search its database of books, annotations, and reviews",
+  "search": "Search",
+  "changeTheme": "Dark theme",
+  "changeLanguage": "Change language"
+}

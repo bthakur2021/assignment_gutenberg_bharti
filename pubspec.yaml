@@ -1,0 +1,77 @@
+name: frontier
+description: A new Flutter project.
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=2.19.4 <3.0.0'
+
+dependencies:
+  boxy: ^2.0.9
+  dio: ^5.1.2
+  cupertino_icons: ^1.0.5
+  flutter:
+    sdk: flutter
+  flutter_svg: ^2.0.5
+  fluttertoast: ^8.2.1
+  flutter_localizations:
+    sdk: flutter
+  google_fonts: ^4.0.4
+  hooks_riverpod: ^2.3.6
+  internet_connection_checker: ^1.0.0+1
+  intl: ^0.18.0
+  json_serializable: ^6.6.2
+  lottie: ^2.3.2
+  path: ^1.8.2
+  path_provider: ^2.0.14
+  shared_preferences: ^2.1.0
+  sprintf: ^7.0.0
+  font_awesome_flutter: ^10.4.0
+  url_launcher: ^6.1.11
+  get: ^4.6.5
+
+dev_dependencies:
+  flutter_lints: ^2.0.1
+  build_runner: ^2.4.4
+  flutter_gen_runner:
+  flutter_launcher_icons: ^0.13.1
+
+
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "assets/icon/app_icon.png"
+  min_sdk_android: 21
+  remove_alpha_ios: true
+  web:
+    generate: false
+  windows:
+    generate: false
+  macos:
+    generate: false
+
+
+flutter_gen:
+  integrations:
+    flutter_svg: true
+    lottie: true
+
+  assets:
+    enabled: true
+    outputs:
+      package_parameter_enabled: false
+
+    #style: camel-case
+
+  fonts:
+    enabled: true
+
+
+flutter:
+  generate: true
+  uses-material-design: true
+  assets:
+    - assets/
+    - assets/animations/
+    - assets/icon/
+    - assets/images/
